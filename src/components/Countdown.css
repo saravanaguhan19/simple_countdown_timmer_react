@@ -3,6 +3,7 @@ input {
     padding: 10px;
     background-color: blueviolet;
     color: white;
+    border-radius: 5px;
 
 }
 #submit {
